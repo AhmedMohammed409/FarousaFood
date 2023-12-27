@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Farousa Food</string>
+    <string name="name">name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start_your_ar_journey_with_our_app">start your AR journey with our app</string>
+    <string name="start_your_ar_njourney_with_n_tour_app">start your AR\njourney with\n\tour app</string>
+    <string name="let_s_start">let’s start</string>
+</resources>
